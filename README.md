@@ -1,4 +1,4 @@
-### Distributed File Storage System  
+#### Distributed File Storage System  
 
 ## Overview  
 This project implements a **Distributed File Storage System** using Java, enabling efficient file storage and retrieval in a distributed network of servers. The system utilizes **Distributed Hash Tables (DHT)** and **consistent hashing** to ensure constant-time insertion and logarithmic-time retrieval. A dynamic tree structure is used to optimize file management, with caching and replication for enhanced performance and reliability.  
